@@ -6,4 +6,4 @@ Basic Ducky Script, should work on all supported devices. Beeps at the end requi
 
 Launches CMD, changes to green text, makes full screen, types out the scene, then obscures the prompt and beeps (knocks) twice, then exits.
 
-Kudos to [Kalani](https://github.com/kalanihelekunihi), [MG](https://github.com/OMG-MG), and [Hak5](https://hak5.org/)!
+Kudos to [Kalani](https://github.com/kalanihelekunihi), [MG](https://github.com/OMG-MG), [I-Am-Jakoby](https://github.com/I-Am-Jakoby), and [Hak5](https://hak5.org/) for help and support!
