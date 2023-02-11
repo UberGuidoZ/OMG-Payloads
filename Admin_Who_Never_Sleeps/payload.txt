@@ -1,5 +1,5 @@
-REM Title: Admin who never sleeps
-REM Desc: Adds a local hidden admin user and sets power settings to never sleep.
+REM Title:  Admin who never sleeps
+REM Desc:   Adds a local hidden admin user and sets power settings to never sleep.
 REM Author: UberGuidoZ
 REM Target: Windows (local admin required)
 
